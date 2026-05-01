@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#bae6fd"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="200" fill="url(#g)"/>
+  <circle cx="200" cy="145" r="70" fill="white" opacity="0.92"/>
+  <path d="M80 345c22-78 72-120 120-120s98 42 120 120" fill="white" opacity="0.92"/>
+  <text x="200" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#0f172a" opacity="0.75">profile image</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#c7f0ff"/>
+      <stop offset="100%" stop-color="#effaff"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#sky)"/>
+  <circle cx="645" cy="105" r="48" fill="#fde68a"/>
+
+  <path d="M0 265 C120 230, 240 300, 360 270 S600 230, 800 275 L800 500 L0 500 Z" fill="url(#sea)"/>
+  <path d="M0 320 C140 295, 250 355, 390 330 S610 300, 800 340 L800 500 L0 500 Z" fill="#0ea5e9" opacity="0.88"/>
+  <path d="M0 380 C130 360, 250 410, 390 390 S630 360, 800 400 L800 500 L0 500 Z" fill="#38bdf8" opacity="0.82"/>
+
+  <rect x="110" y="210" width="13" height="125" rx="5" fill="#334155"/>
+  <line x1="116" y1="228" x2="180" y2="228" stroke="#334155" stroke-width="7"/>
+  <line x1="116" y1="260" x2="158" y2="260" stroke="#334155" stroke-width="7"/>
+  <line x1="116" y1="292" x2="188" y2="292" stroke="#334155" stroke-width="7"/>
+
+  <path d="M525 220 l55 -45 l55 45 v80 h-110z" fill="#0f172a" opacity="0.8"/>
+  <rect x="545" y="245" width="22" height="55" fill="#bae6fd" opacity="0.85"/>
+  <rect x="592" y="245" width="22" height="55" fill="#bae6fd" opacity="0.85"/>
+
+  <text x="92" y="195" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0f172a">Sea-level</text>
+  <text x="92" y="365" font-family="Arial, sans-serif" font-size="18" fill="#0f172a" opacity="0.72">coasts • tides • uncertainty</text>
+</svg>
