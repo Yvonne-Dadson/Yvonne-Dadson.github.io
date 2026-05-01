@@ -1,0 +1,9 @@
+services:
+  website:
+    build: .
+    container_name: researcher-website
+    ports:
+      - "8080:8000"
+    volumes:
+      - .:/app
+    command: sh -c "python build_site.py && cd dist && python -m http.server 8000"
