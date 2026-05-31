@@ -24,11 +24,8 @@ In my pre-doctoral life, I was an economist with a passion for data, policy, and
 
 ## Background
 
-This website is built from Markdown files, so content can be edited without touching HTML.
+I hold a Master of Public Administration from the University of North Texas, a Master of Philosophy in Economics from the University of Ghana, and a Bachelor of Arts in Economics from KNUST, Ghana. Before entering academia, 
+I worked in consulting, banking, and public service across Ghana.
 
 ## Interests
-
-- Topic 1
-- Topic 2
-- Topic 3
-- Topic 4
+My best collaborations have come from unexpected places, and I am always open to new partnerships. If you are a researcher, practitioner, policymaker, or community organization working on immigrant communities and disasters, social equity in emergency management, AI ethics and privacy, data analytics for risk, or assistive technologies for vulnerable populations, I would love to hear from you. Feel free to reach out via email.
