@@ -19,4 +19,4 @@ Add selected publications here.
 
 ## Download
 
-<!-- Click to download [PDF of my CV](assets/files/assets/files/CV_Yvonne_Appiah_Dadson.pdf) -->
+<!-- Click to download [PDF of my CV](assets/files/CV_Yvonne_Appiah_Dadson.pdf)
