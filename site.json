@@ -1,11 +1,11 @@
 {
-  "site_name": "Yvonne",
-  "site_type": "PhD Candidate/ ABD",
-  "tagline": "Topic A and Topic B",
+  "site_name": "Yvonne Appiah Dadson",
+  "site_type": "PhD Candidate / ABD",
+  "tagline": "Researching immigrant resilience at the intersection of disasters & technology",
   "layout": "classic",
   "profile_image": "assets/images/profile-placeholder.svg",
   "hero_image": "assets/images/hero-ocean.svg",
-  "footer_text": "© 2026 First Name",
+  "footer_text": "© 2026 Yvonne",
   "pages": [
     {
       "slug": "index",
