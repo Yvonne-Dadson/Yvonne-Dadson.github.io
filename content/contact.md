@@ -9,4 +9,4 @@ You can reach me through:
 
 ## Collaboration
 
-I am interested in collaborations related to ...
+I am interested in collaborations related to related to immigrant vulnerability and resilience in disasters, social equity in emergency management, ethical and privacy challenges in AI and assistive technologies, risk communication for marginalized populations, and community-centered approaches to disaster preparedness and recovery.
