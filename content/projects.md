@@ -84,8 +84,6 @@ Comparing the design, use, and public perception of COVID-19 contact tracing and
 - Dadson, Y. A. (2026). Are You Trustworthy? Community Gatekeepers and Vulnerable Communities. *51st Annual Natural Hazards Research and Applications Workshop 2026.*
 
 ### Past
-
-- Dadson, Y. A. (2026). Building a Future for All: Transforming Emergency Management to Serve Immigrant Communities. *Social Equity Leadership Conference (SELC) 2026.*
   
 - Dadson, Y. A. (2026). Beyond the Undocumented: Examining Immigrant Vulnerability and Resilience in Disaster Contexts. *University at Albany Research Showcase 2026.*
 
