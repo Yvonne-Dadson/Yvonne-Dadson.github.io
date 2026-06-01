@@ -11,11 +11,19 @@
   University of North Texas  
 
 - **Master of Philosophy in Economics** *(2015)*  
-  University of Ghana  
+  University of Ghana
+  Thesis: *Examining the Effects of Fiscal Deficits on Inflation in Ghana*  
+  Thesis Co-Chairs: Dr. Emmanuel Codjoe and Dr. Baah-Boateng  
+  
 
 - **Bachelor of Arts in Economics** *(2008)*  
   Kwame Nkrumah University of Science and Technology, Ghana
+  Final-year Dissertation: *The Contribution of Rural Banks to Rural Poverty Reduction: A Case Study of Kumawuman Rural Bank*  
+  Supervisor: Dr. Anthony Kofi Osei-Fosu
 
+
+- **Professional Banking & Finance Program (Level I & II)** *(2012)*  
+  The Chartered Institute of Bankers, Ghana
   
 ## Experience
 **Adjunct Professor** *(2026 – Present)*
