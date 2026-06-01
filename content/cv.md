@@ -58,20 +58,20 @@ Department of Geography and the Environment, University of North Texas
 
 - Dadson, Y. A., Sharma, P., Bennett-Gayle, D., & Yuan, X. (2025). Exploring the influence of social capital on the perception and use of COVID-19 apps in New York State. *HCI International 2025.* [Read here](https://link.springer.com/chapter/10.1007/978-3-031-28332-1_49)
 
-- Bennett-Gayle, D., Dadson, Y. A., Goodarzi, M., & Yuan, X. (2025). COVID-19 mobile applications for vaccination in New York State. *Hawaii International Conference on System Sciences (HICSS).* *(Nominated for Best Paper Award)* [Read here](https://scholar.google.com/citations?user=PxrotG0AAAAJ)
+- Bennett-Gayle, D., Dadson, Y. A., Goodarzi, M., & Yuan, X. (2025). COVID-19 mobile applications for vaccination in New York State. *Hawaii International Conference on System Sciences (HICSS).* *(Nominated for Best Paper Award)* [Read here](https://doi.org/10.24251/HICSS.2025.432)
 
 - Yankson, B., Berkoh, E., Hussein, M., & Dadson, Y. A. (2024). The role of industry-academia partnerships in cybersecurity. *International Conference on Cyber Warfare and Security, 19*(1), 26–33. [Read here](https://doi.org/10.34190/iccws.19.1.2169)
 
 - Yuan, X., Bennett-Gayle, D., Jung, E. S., & Dadson, Y. A. (2023). COVID-19 contact tracing mobile applications in New York State: An empirical study. *HCI International 2023,* pp. 505–524. [Read here](https://doi.org/10.1007/978-3-031-48057-7_32)
 
-- Bennett-Gayle, D., Yuan, X., Dadson, Y. A., & Edwards, N. (2023). Contact tracing mobile application in New York: Qualitative study on use and privacy perceptions. *ISCRAM 2023*, Omaha, NE. *(Best Paper Award)* [Read here](https://scholar.google.com/citations?user=PxrotG0AAAAJ)
+- Bennett-Gayle, D., Yuan, X., Dadson, Y. A., & Edwards, N. (2023). Contact tracing mobile applications in New York: A qualitative study on the use and privacy perceptions. *ISCRAM 2023*, Omaha, NE. *(Best Paper Award)* [Read here](https://scholar.google.com/scholar?oi=bibs&cluster=16847315775867722246&btnI=1&hl=en)
 
 - Yuan, X., Bennett-Gayle, D., Dadson, Y. A., & Jung, E. (2022). Perception and use of COVID contact tracing mobile applications in New York State. *Proceedings of ASIS&T, 59*(1), 845–847. [Read here](https://doi.org/10.1002/pra2.746)
 
 ### Non-Peer Reviewed
 
 - Dadson, Y. A., & Akekudaga, P. When the ground shakes: Social media responses to the 2024 Northeast earthquake. *SSRN.* [Read here](https://ssrn.com/abstract=5462365)
-All submitted and accepted but not yet published papers have been removed. Only fully published works are included. Want me to now compile the complete final cv.md with everything in one file?
+
 
 ## Download
 
