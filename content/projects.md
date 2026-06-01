@@ -86,7 +86,7 @@ Comparing the design, use, and public perception of COVID-19 contact tracing and
 ### Past
 
 - Dadson, Y. A. (2026). Building a Future for All: Transforming Emergency Management to Serve Immigrant Communities. *Social Equity Leadership Conference (SELC) 2026.*
-- 
+  
 - Dadson, Y. A. (2026). Beyond the Undocumented: Examining Immigrant Vulnerability and Resilience in Disaster Contexts. *University at Albany Research Showcase 2026.*
 
 - Dadson, Y. A. (2025). Bridging Barriers: Advocating for Inclusive Disaster Management for Immigrant Communities. *IAEM Annual Conference & EMEX 25.* [View Poster](https://www.iaem.org/Portals/IAEMconf/documents/2025/posters2025/Yvonne-Dadson-Poster.pdf)
