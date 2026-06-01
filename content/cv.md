@@ -1,7 +1,5 @@
 # CV
 
-Add your CV information here.
-
 ## Education
 
 - **Ph.D., Information Sciences** *(expected 2026)*  
