@@ -29,12 +29,15 @@
 ## Experience
 **Adjunct Professor** *(2026 – Present)*
 College of Emergency Preparedness, Homeland Security and Cybersecurity, University at Albany, SUNY
+
 - Justice, Equity, Diversity, and Inclusion: Emergency Management and Homeland Security (CEMH 192) *(Fall 2026)*
 - Risky Business: Protecting Our Communities and Infrastructure (CEMH 201) *(Fall 2026)*
 - Homeland Security (CEHC 343) *(Spring 2026)*
 
-**Instructor of Record** *(2021 – Present)*  
+**Instructor of Record** *(2021 – Present)* 
+
 College of Emergency Preparedness, Homeland Security and Cybersecurity, University at Albany, SUNY
+
 - Research Methods for Informatics (CINF 200) — Winter & Summer 2024, 2025, 2026
 - Emergency Preparedness (CEHC 344) — Summer 2023, Summer 2025
 - External Internship in Emergency Preparedness (EHC 390) — Winter 2021
@@ -43,6 +46,7 @@ College of Emergency Preparedness, Homeland Security and Cybersecurity, Universi
 
 ** Graduate Teaching Assistant** *(Spring 2021)*  
 University at Albany, SUNY
+
 - Cybersecurity Basics (INF124X)
 - Introduction to Data and Databases (INF 202)
 
@@ -51,12 +55,14 @@ College of Emergency Preparedness, Homeland Security and Cybersecurity, Universi
 
 **Graduate Research Assistant** *(2022 – 2026)*
 University at Albany, SUNY
+
 - Research Assistant on the NSF-funded Megalopolitan Coastal Transformation Hub (MACH) project
 - Collecting climate-related perspectives from immigrant communities in Philadelphia and the broader Northeast U.S.
 
 
 **Graduate Research Assistant** *(2020)*
 Department of Geography and the Environment, University of North Texas
+
 - Assisted in research and article publications
 
 ### Professional Experience
