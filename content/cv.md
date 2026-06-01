@@ -61,16 +61,16 @@ Department of Geography and the Environment, University of North Texas
 
 ### Professional Experience
 
-**Supervisor** *(2018 – 2019)*  
+**Supervisor**   
 Ghana Census of Agriculture, Ghana Statistical Service
 Awutu-Senya East District
 
-**Consultant** *(2016 – 2018)*  
+**Consultant**  
 Pentax Management Consultancy Services Limited, Ghana
-**Junior Business Associate** *(2016 – 2017)*  
+**Junior Business Associate**
 Plan Consult, Ghana
 
-**Survey Assistant** *(2016)*  
+**Survey Assistant** 
 Ghana Social Accountability Mechanism (GSAM) Project  
 Institute of Statistical, Social & Economic Research (ISSER), University of Ghana
 
