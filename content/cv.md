@@ -44,7 +44,7 @@ College of Emergency Preparedness, Homeland Security and Cybersecurity, Universi
 - Technology-Based Community Support (INF 467) — Winter 2021
 - Undergraduate Internship Informatics (INF 468) — Winter 2021
 
-** Graduate Teaching Assistant** *(Spring 2021)*  
+**Graduate Teaching Assistant** *(Spring 2021)*  
 University at Albany, SUNY
 
 - Cybersecurity Basics (INF124X)
