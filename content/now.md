@@ -1,35 +1,8 @@
 # Now
 
-See examples by browsing [nownownow.com](https://nownownow.com). 
+I am currently in the final stretch of my dissertation, *Beyond the Undocumented: Immigrant Vulnerability & Resilience in Disaster Contexts*. Most of my energy right now is going into data collection and writing. Data collection has been particularly challenging given the current political climate, which has made immigrant communities more guarded and harder to reach — a reality that is frustrating but also speaks directly to the urgency of this research.
 
-I am currently a ...
+Also, I am an Instructor of records for CINF 200 - Research Methods in Informatics this Summer 2026.
 
-My research focuses on ...
-
-
-## Current Research Focus
-
-My current research focuses on ...
-
-My broader research interests include:
-
-- Topic 1
-- Topic 2
-- Topic 3
-- Topic 4
-
-## Current Projects
-
-I am developing tools ...
-
-
-## Research Motivation
-
-My work aims to connect ...
-
-
-## Current Institution
-
-**University**  
-Lab  
-Researcher
+# Outside of Work
+Navigating life as a Ghanaian scholar in the United States, finding joy in the small things, and reminding myself that the finish line is close.
