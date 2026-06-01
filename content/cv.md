@@ -5,7 +5,8 @@
 - **Ph.D., Information Sciences** *(expected 2026)*  
   University at Albany, State University of New York  
   Concentrations: Data Analytics and Information for Risk in Emergency Management & Security (IRES)  
-  Dissertation: *Beyond the Undocumented: Immigrant Vulnerability & Resilience in Disaster Contexts*  
+  Dissertation: *Beyond the Undocumented: Immigrant Vulnerability & Resilience in Disaster Contexts*
+  Dissertation Chair/ Committee: Prof. DeeDee Bennett-Gayle, Dr. Brandon Behlendorf, Dr. Alex Greer & Dr. Elisabeth Gilmore (External)
 
 - **Master of Public Administration** *(2021)*  
   University of North Texas  
@@ -27,14 +28,51 @@
   
 ## Experience
 **Adjunct Professor** *(2026 – Present)*
-College of Emergency Preparedness, Homeland Security and Cybersecurity
-University at Albany, SUNY
+College of Emergency Preparedness, Homeland Security and Cybersecurity, University at Albany, SUNY
+- Justice, Equity, Diversity, and Inclusion: Emergency Management and Homeland Security (CEMH 192) *(Fall 2026)*
+- Risky Business: Protecting Our Communities and Infrastructure (CEMH 201) *(Fall 2026)*
+- Homeland Security (CEHC 343) *(Spring 2026)*
 
-**Graduate Research Assistant** *(2022 – Present)*
+**Instructor of Record** *(2021 – Present)*  
+College of Emergency Preparedness, Homeland Security and Cybersecurity, University at Albany, SUNY
+- Research Methods for Informatics (CINF 200) — Winter & Summer 2024, 2025, 2026
+- Emergency Preparedness (CEHC 344) — Summer 2023, Summer 2025
+- External Internship in Emergency Preparedness (EHC 390) — Winter 2021
+- Technology-Based Community Support (INF 467) — Winter 2021
+- Undergraduate Internship Informatics (INF 468) — Winter 2021
+
+** Graduate Teaching Assistant** *(Spring 2021)*  
 University at Albany, SUNY
+- Cybersecurity Basics (INF124X)
+- Introduction to Data and Databases (INF 202)
+
+**Graduate Assistant, Dean's Office** *(2021)*  
+College of Emergency Preparedness, Homeland Security and Cybersecurity, University at Albany, SUNY
+
+**Graduate Research Assistant** *(2022 – 2026)*
+University at Albany, SUNY
+- Research Assistant on the NSF-funded Megalopolitan Coastal Transformation Hub (MACH) project
+- Collecting climate-related perspectives from immigrant communities in Philadelphia and the broader Northeast U.S.
+
 
 **Graduate Research Assistant** *(2020)*
 Department of Geography and the Environment, University of North Texas
+- Assisted in research and article publications
+
+### Professional Experience
+
+**Supervisor** *(2018 – 2019)*  
+Ghana Census of Agriculture, Ghana Statistical Service
+Awutu-Senya East District
+
+**Consultant** *(2016 – 2018)*  
+Pentax Management Consultancy Services Limited, Ghana
+**Junior Business Associate** *(2016 – 2017)*  
+Plan Consult, Ghana
+
+**Survey Assistant** *(2016)*  
+Ghana Social Accountability Mechanism (GSAM) Project  
+Institute of Statistical, Social & Economic Research (ISSER), University of Ghana
 
 ## Publications
 
