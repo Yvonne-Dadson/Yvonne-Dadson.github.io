@@ -22,7 +22,7 @@ My path to this work was not planned. Living through the COVID-19 lockdown and W
 
 I am also a Fellow of the [Bill Anderson Fund](https://billandersonfund.org/) and a member of the [NSF CoPe MACH](https://coastalhub.org/) project, a multi-institutional initiative improving the understanding and governance of co-evolving coastal hazards across New Jersey, New York City, and Philadelphia.
 
-In my pre-doctoral life, I was an economist with a passion for data, policy, and public service across Ghana. On this website, you will find more about what I research, teach and publish[Click to download PDF of my CV](assets/files/CV_Yvonne_Appiah_Dadson.pdf). You can also reach me via [email](mailto:yvonnedadson@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/yvonne-appiah-dadson-mpa-mphil-9b7563172/), 
+In my pre-doctoral life, I was an economist with a passion for data, policy, and public service across Ghana. On this website, you will find more about what I research, teach and publish [Click to download PDF of my CV](assets/files/CV_Yvonne_Appiah_Dadson.pdf). You can also reach me via [email](mailto:yvonnedadson@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/yvonne-appiah-dadson-mpa-mphil-9b7563172/), 
 or follow my work on [Google Scholar](https://scholar.google.com/citations?user=PxrotG0AAAAJ).
 
 
