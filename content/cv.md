@@ -19,7 +19,6 @@
 
 - **Bachelor of Arts in Economics** *(2008)*  
   Kwame Nkrumah University of Science and Technology, Ghana
-
   Final-year Dissertation: *The Contribution of Rural Banks to Rural Poverty Reduction: A Case Study of Kumawuman Rural Bank*  
   Supervisor: Dr. Anthony Kofi Osei-Fosu
 
