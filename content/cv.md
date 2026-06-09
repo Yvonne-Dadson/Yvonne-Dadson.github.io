@@ -86,6 +86,8 @@ Institute of Statistical, Social & Economic Research (ISSER), University of Ghan
 
 ### Journal Articles
 
+- Dadson, Y. A., & Bennett-Gayle, D. (2026). State of the emergency management academic programs: 5-year longitudinal trend analysis (2019-2023). Journal of Emergency Management, 24(3), 289–307. https://doi.org/10.5055/jem.0948
+  
 - Dadson, Y. A., Bennett-Gayle, D. M., Ramenzoni, V., & Gilmore, E. A. (2024). Experiences of immigrants during disasters in the US: A systematic literature review. *Journal of Immigrant and Minority Health*. [Read here](https://doi.org/10.1007/s10903-024-01649-8)
 
 - Kumi-Yeboah, A., Kim, Y., Yankson, B., Aikins, S., & Dadson, Y. A. (2023). Diverse students' perspectives on privacy and technology integration in higher education. *British Journal of Educational Technology, 54*(6), 1671–1692. [Read here](https://doi.org/10.1111/bjet.13386)
